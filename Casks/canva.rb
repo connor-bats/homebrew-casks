@@ -25,3 +25,4 @@ cask "canva" do
     "~/Library/Preferences/com.canva.CanvaDesktop.plist",
     "~/Library/Saved Application State/com.canva.CanvaDesktop.savedState",
   ]
+end
