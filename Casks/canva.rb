@@ -3,7 +3,7 @@ cask "canva" do
   sha256 "61821eca8a9ebe3b568b7486a0b6d21de34dd0b907cbb55d0b364064c1ed4d08"
 
   url "https://desktop-release.canva-deploy.com/Canva-#{version}-universal.dmg",
-      verified: "desktop-release.canva-deploy.com/"Add commentMore actions
+      verified: "desktop-release.canva-deploy.com/"
   name "Canva"
   desc "Design tool"
   homepage "https://www.canva.com/"
